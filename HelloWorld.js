@@ -1,3 +1,3 @@
 var dt = new Date();
 var utcDate = dt.toUTCString();
-console.log("hello world: " + utcDate);
+console.log("UTC date is: " + utcDate);
